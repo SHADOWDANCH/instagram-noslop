@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Instagram NoSlop
-// @namespace    https://github.com/local/instagram-noslop
+// @namespace    https://github.com/SHADOWDANCH/instagram-noslop
 // @version      2.2.0
 // @description  Removes ads, suggested posts and the Explore/Reels tabs from Instagram, swaps the algorithmic home feed for the chronological Following feed, and covers reels shared in DMs. Built for iOS Safari via the Userscripts app.
-// @author       local
+// @author       SHADOWDANCH
 // @match        https://www.instagram.com/*
 // @match        https://instagram.com/*
 // @run-at       document-start
