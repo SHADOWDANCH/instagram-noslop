@@ -61,7 +61,9 @@ places, so treat desktop as untested.
    instagram.com to **Always Allow**.
 5. Open `instagram.com` in a normal Safari tab.
 
-To update, replace the file and reload the tab.
+The script carries `@updateURL`, so a userscript manager that checks for updates will pull
+new versions from this repo on its own. To update by hand instead, replace the file and
+reload the tab.
 
 ## Notifications
 
