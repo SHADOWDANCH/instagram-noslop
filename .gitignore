@@ -1,0 +1,9 @@
+# Engineering notes, local only
+CLAUDE.md
+
+# DOM captures from a logged-in session. These contain a live csrf_token,
+# ds_user_id and lsd tokens, plus DM contents, contact names and handles.
+# Local-only, never commit.
+dom-snapshot*.html
+
+.DS_Store
